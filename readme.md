@@ -35,6 +35,15 @@ The capabilities of e , phi , pi , and tau
 
 ![sales data analysis doodle](/SP500...baybee.JPG)
 
+<code> Seraphic of industry </code><br/>
+
+<code>
+yummy
+
+</code>
+
+![sales data analysis doodle](/Seraphicofindustry.jpg)
+
 <code>
 JPMorgan doodle
 <br/>
