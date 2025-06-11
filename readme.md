@@ -46,8 +46,7 @@ Organization Representations of Industrial Transactions
 
 </code>
 
-<code>
-Series <br/> 
+<code> Series <br/>
 <br/>
 </code>
 
