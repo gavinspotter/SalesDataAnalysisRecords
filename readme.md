@@ -38,11 +38,64 @@ The capabilities of e , phi , pi , and tau
 <code> Seraphic of industry </code><br/>
 
 <code>
-yummy
+Organization Representations of Industrial Transactions
 
 </code>
 
 ![sales data analysis doodle](/Seraphicofindustry.jpg)
+
+</code>
+
+<code>
+Series <br/> <br/>
+</code>
+
+Series 7 and Series 87 Market / Finance Components / Structures <br/>
+
+Key: <br/>
+
+Series 7 <br/>
+
+Fin Com -> Finance Commisioning <br/>
+
+Prod -> Product <br/>
+Ord -> Orders <br/>
+Rec -> Records <br/>
+Analys -> Analysis <br/>
+Port -> Portfolios <br/>
+
+Bus -> Business <br/>
+
+Mark Pros -> Marketing Prospects <br/>
+Cust -> Customers <br/>
+Suit -> Suitability <br/>
+
+Agr -> Agreements <br/>
+
+Reg -> Regulations <br/>
+Acc op -> Account Opening <br/>
+Suit -> Suitability <br/>
+Cust inf -> Customer Information <br/>
+
+Trans -> Transactions <br/>
+
+Reg Comp -> Regulatory Compliance <br/>
+Acct Maint -> Account Maintenance <br/>
+Trans -> Transactions <br/>
+
+Series 87 <br/>
+
+Res -> Research <br/>
+Inf -> Information <br/>
+
+Res -> Research <br/>
+Eth -> Ethics <br/>
+
+Reg -> Regulatory <br/>
+Cont -> Content <br/>
+Comp -> Compliance <br/>
+
+![sales data analysis doodle](/Series7MarketDataSalesAnalysis.jpg)
 
 <code>
 JPMorgan doodle
