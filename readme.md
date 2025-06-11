@@ -95,7 +95,7 @@ Reg -> Regulatory <br/>
 Cont -> Content <br/>
 Comp -> Compliance <br/>
 
-![sales data analysis doodle](/Series7MarketDataSalesAnalysis.jpg)
+![sales data analysis doodle](/Series7MarketDataSalesAnalysis.JPG)
 
 <code>
 JPMorgan doodle
