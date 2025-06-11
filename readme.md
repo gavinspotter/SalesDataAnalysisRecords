@@ -47,7 +47,8 @@ Organization Representations of Industrial Transactions
 </code>
 
 <code>
-Series <br/> <br/>
+Series <br/> 
+<br/>
 </code>
 
 Series 7 and Series 87 Market / Finance Components / Structures <br/>
